@@ -6,14 +6,14 @@ I just love it when you stop by. :heart_decoration:
 
 ## Content of this website
 
-- My picture
+* My picture
 
-- My Biography
+* My Biography
 
-- My contacts
+* My contacts
   
   
 
-I hope you like it. :smiley:
+I hope you like it. :smiley: 
 
 
