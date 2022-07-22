@@ -2,7 +2,10 @@
 body{
     background: ;
 }
-
+.picture{
+    border: 1px solid black;
+    border-radius:100%;
+}
 #title, .subtitle, .post_title{
 color: blue;
 }

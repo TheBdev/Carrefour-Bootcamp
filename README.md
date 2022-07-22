@@ -1,8 +1,8 @@
-# Project Under Construction :building_construction:
+# Website Under Construction :building_construction:
 
-Come visit me more often.
+Hey. How's it going? <br>*I'm Anderson, from Brazil*. <br>This is the new website I'm developing as a way of improving my dev skills.
 
-I just love it when you stop by. :heart_decoration:
+
 
 ## Content of this website
 
@@ -13,7 +13,7 @@ I just love it when you stop by. :heart_decoration:
 * My contacts
   
   
-
-I hope you like it. :smiley: 
+  
+  Come visit me more often. I just love it when you stop by. :smiley:
 
 
